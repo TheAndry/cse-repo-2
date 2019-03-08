@@ -2,3 +2,4 @@
 	email = xxx
 	name = ---NO NAME---
 
+	#.gitignore - we are not uploading virtual machine crash logs
